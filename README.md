@@ -11,52 +11,77 @@ intelligent systems operating across the cloud–edge continuum.
 # Getting Started
 
 Follow this step-by-step guide to set up your environment, install dependencies with **Poetry**, and run the 
-**first script of the study (GitHub API data collection — `api_search`)**.
+** script of the study (GitHub API data collection)**.
+
+➡️ See the full installation guide in **[INSTALL.md](./INSTALL.md)**.
+
+
+
+## 🔍 Step 2 — GitHub Mining Script (Repository Retrieval)
+
+This replication package includes an automated script responsible for collecting GitHub repositories related to Edge AI and adjacent topics. This script represents the **second step of the data-collection pipeline**, executed **after** running the API-based search script (`api_search`).
+
+### 📌 Purpose
+
+This script performs a structured mining process over GitHub’s REST API to retrieve repositories that match a predefined set of Edge-AI-related terms. It extracts key metadata—such as commit history, collaborators, stars, programming language, and activity over the last year—and stores the results in timestamped CSV files to enable reproducible analysis.
+
+### 📁 Output
+
+For each search term, the script generates a CSV file under:
+
+```
+dataset/raw_data/
+```
+
+Each file follows the naming pattern:
+
+```
+RAW_<term>_repos_<timestamp>.csv
+```
+
+These CSVs form the foundational dataset used in the subsequent filtering, cleaning, and thematic analysis phases.
+
+### ⚙️ How to Run
+
+1. Ensure that all project dependencies are installed using Poetry:
+
+   ```bash
+   poetry install
+   ```
+
+2. Activate the virtual environment:
+
+   ```bash
+   poetry shell
+   ```
+
+3. Execute the mining script:
+
+   ```bash
+   poetry run python path/to/your_script.py
+   ```
+
+4. The script will automatically:
+
+   * Query the GitHub REST API for all predefined EdgeAI-related search terms
+   * Avoid duplicate results
+   * Count commits (total and 2024-specific)
+   * Count contributors
+   * Save all enriched repository records into structured CSV files
+
+### 🧠 Internals and Logging
+
+* All messages are emitted through Python’s `logging` module (no `print()` statements).
+* Docstrings are provided in English to support reproducibility and clarity for reviewers.
+* The script includes throttling (`sleep`) to avoid exceeding GitHub API rate limits.
+
+### 🔒 Authentication
+
+Make sure that your GitHub Personal Access Token (PAT) is set in the `headers` inside the `config.py`.
+This significantly reduces the chance of rate-limit errors during large-scale mining.
 
 ---
-## 🧩 Step 1 — Prepare you Environment
 
-
-
-#### 1.1) Prerequisites
-
-- **Git**
-- **Python 3.13** (recommended)
-- **Poetry 1.8+**
-
-> 💡 Tip: if Poetry is not installed yet, use:
-> ```bash
->  pipx install poetry
-> ```
-
----
-
-#### 1.2) Clone the repository
-
-```bash
-  git clone https://github.com/<org>/<edgeai.empirical-study.replication-package>.git
-  cd edgeai.empirical-study.replication-package
-```
-
-#### 1.3) Set up environment variables
-Create your .env file (used by the data collection scripts):
-```shell
-  cp .env.example .env
-```
-Edit .env and set at least the following variables:
-```dotenv
-GITHUB_TOKEN=ghp_xxx...# token with 'repo' and 'read:org' scopes recommended
-GITHUB_API_URL=https://api.github.com
-```
-⚠️ Use a Personal Access Token (classic) with repo and read:org permissions to avoid rate-limit issues during data collection.
-
-
-#### 1.4) Install dependencies with Poetry
-```shell
-  poetry lock --no-update
-  poetry install
-  poetry env activate 
-```
 
 
 ## 🧩 Step 2 — Dataset Processing & Cleaning
