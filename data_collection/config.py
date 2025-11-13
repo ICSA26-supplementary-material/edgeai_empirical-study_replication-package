@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 load_dotenv()
 
-last_year_date = (datetime.now() - timedelta(days=365)).strftime('%Y-%m-%d')
+# last_year_date = (datetime.now() - timedelta(days=365)).strftime('%Y-%m-%d')
 
 NUM_COMMITS = 50
 NUM_STARS = 2
