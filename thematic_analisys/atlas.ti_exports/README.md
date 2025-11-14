@@ -54,6 +54,31 @@ For every file, we will add a mini-section in the following format:
 
   Researchers replicating this study can recompute this table by regrouping codes → categories → themes following the same hierarchical structure documented in the coding scheme.
 
+```
+
+### 2.X 20250914_code_frequencies.csv
+
+- **Purpose:**  
+  This file provides the **frequency of each individual code** used during the ATLAS.ti open coding phase.  
+  While the theme frequency export aggregates information at a higher level, this file captures the **granular coding activity**, enabling deeper quantitative inspection of the coding scheme.
+
+- **Contents:**  
+  A CSV table typically containing:  
+  - **code** – the exact code label assigned to quotations during open coding.  
+  - **frequency** – the number of quotations associated with each code.  
+
+  The table includes both low-level codes and more abstract codes, depending on how the coding hierarchy was structured.
+
+- **Usage:**  
+  Useful for:  
+  - analyzing which concepts were most prominent in the qualitative dataset;  
+  - generating visualizations (e.g., bar charts, Zipf-like distributions, code clouds);  
+  - validating the consistency of the coding process;  
+  - supporting RQ1.x by quantifying architectural concerns, patterns, and EdgeAI practices extracted from repositories;  
+  - triangulating with ISO/IEC 25010 quality attribute mappings and guideline families.
+
+  This export is essential for replicating the **open coding stage** and for reconstructing the prevalence of each architectural construct identified in the study.
+
 
 [//]: # ()
 [//]: # (### 2.X <FILENAME>)
