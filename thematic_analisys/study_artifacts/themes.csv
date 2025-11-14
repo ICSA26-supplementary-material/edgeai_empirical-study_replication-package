@@ -1,0 +1,19 @@
+theme_ID,theme (m2m/edge_literature),high-order_themes,capabilities (ISO 30141)
+T01,Edge Connectivity & Communication Protocols,"Communication Protocols, Infrastructures & Continuum",Interface Capabilities
+T02,"Security, Privacy & Trust Management","Security, Authentication, & Usage Policies",Supporting Capabilities
+T03,Device Lifecycle Management (Provisoning → Deployment → Operation),Infrastructure & Device Management,Supporting Capabilities
+T04,Modular Edge Architecture & Service Orchestration,Composable Architectures & Flow Orchestration,Supporting Capabilities
+T05,Edge‑Cloud Continuum Integration & Messaging Middleware,"Communication Protocols, Infrastructures & Continuum",Interface Capabilities
+T06,Digital Twins & Device State Management,Infrastructure & Device Management,Supporting Capabilities
+T07,Infrastructure Automation & Configuration Management,Infrastructure & Device Management,Supporting Capabilities
+T08,"Observability, Monitoring & Diagnostics",Observability & Persistent Data Management,Data Capabilities
+T09,Optimised AI/ML Execution at the Edge,Optimized AI/ML Execution & Computational Efficiency,Supporting Capabilities
+T10,Resource Efficiency & Performance Optimisation,Optimized AI/ML Execution & Computational Efficiency,Supporting Capabilities
+T11,Stream Processing & Event‑Driven Architectures (Edge),Composable Architectures & Flow Orchestration,Supporting Capabilities
+T12,"Data Storage, Persistence & Caching",Observability & Persistent Data Management,Data Capabilities
+T13,Sensor Abstraction & Hardware Interface Integration,Integration of Sensors & Applications,Interface Capabilities
+T14,Edge Development Frameworks & Programmability,Optimized AI/ML Execution & Computational Efficiency,Supporting Capabilities
+T15,"DevOps, CI/CD & Build Environments for Edge",Infrastructure & Device Management,Supporting Capabilities
+T16,LPWAN/LoRaWAN & Other Long‑Range Low‑Power Communications,"Communication Protocols, Infrastructures & Continuum",Interface Capabilities
+T17,"Network Virtualisation, VPNs & SDN at the Edge","Communication Protocols, Infrastructures & Continuum",Interface Capabilities
+T18,"Trusted Connectors, Data Sovereignty & Usage Policies","Security, Authentication, & Usage Policies",Supporting Capabilities

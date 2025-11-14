@@ -1,0 +1,440 @@
+code_ID,code,n_ocurrencies,high-order_themes,theme_ID,theme
+C001,Access Control,22,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C002,ACL Configuration,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C003,Adverse Network Conditions,2,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C004,Agent Management,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C005,AI Security Mechanism,3,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C006,AI Skill Definitions,1,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C007,AI/ML Inference,3,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C008,Allowlist,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C010,AOT Configuration,2,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C011,API Integration,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C012,API Readiness,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C013,Application Architecture,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C014,Application Creation,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C015,Application Deployment,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C016,Application Registration,2,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C017,Application Services,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C018,Astarte Integration,2,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C019,Astarte Triggers,1,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C020,Asynchronous Communication,5,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C021,Authentication Methods,21,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C022,Auto Discovery,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C023,Automated Patching,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C024,Automated Service Orchestration,2,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C025,Automatic Troubleshooting Strategy,1,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C026,Automation,2,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C027,Available Resources,3,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C028,Background Process Invocation,1,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C029,Backup and Restore Functionality,4,Observability and Persistent Data Management,T12,"Data Storage, Persistence & Caching"
+C030,Base Service Configuration,2,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C031,Bi-Directional Communication,9,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C032,Binary Size Savings,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C033,Branch Environments,1,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C034,Broker Configuration,2,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C035,Browser-Based Applications,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C036,Business Demands,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C037,Abstraction Layer,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C038,Camera Setup,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C039,Centralized Management,3,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C040,Certificate Configuration,5,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C041,Certificate Storage,3,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C042,Certificate Validation,2,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C043,Channel Management,2,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C044,Clear and Encrypted Message Handling,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C045,Client Application Development,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C046,Client Connection Issues,4,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C047,Cloud Connection,2,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C048,Cloud Integration,38,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C049,Cloud to Edge Communication,17,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C050,Code Reusability,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C051,Code Review,1,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C052,Collaborators Interaction,1,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C053,Command Execution,3,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C054,Command Line Interface,4,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C055,Communication Protocol,44,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C056,compatibility issues,12,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C057,Complexity Reduction,4,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C058,Compliance Requirements,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C059,Component Configuration,2,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C060,Component Management,2,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C061,Component Transfer,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C062,Condition Logic,1,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C063,Configuration Management,12,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C064,Connection Quality,11,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C065,Connectivity Management,3,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C066,Consistent Tool Usage,1,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C067,Container Engines,3,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C068,Container Image Building,1,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C069,Container Isolation,1,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C070,Container Management,3,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C071,Containerized Deployments,2,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C072,Continuous Streaming Data Source,3,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C073,Controller Selection,2,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C074,Controller-Worker Model,3,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C075,Core Container,2,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C076,Core Services,36,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C077,Cost Reduction,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C078,CPU Utilization,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C079,Cross-Platform Runtime,8,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C080,Crypto-based ID,2,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C081,Custom Linux Security Module,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C082,Custom Solutions,6,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C083,Custom Tasks,4,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C084,Customer Preferences,3,Integration of Sensors and Applications,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C085,Dashboard Functionality,5,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C086,Data Collection,9,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C087,Data Integration,8,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C088,Data Integrity,7,Observability and Persistent Data Management,T12,"Data Storage, Persistence & Caching"
+C089,Data Persistence,1,Observability and Persistent Data Management,T12,"Data Storage, Persistence & Caching"
+C090,Data Plane,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C091,Data Preprocessing,3,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C092,Data Storage Management,13,Observability and Persistent Data Management,T12,"Data Storage, Persistence & Caching"
+C093,Data Transformation and Alerting Services,11,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C094,Data Transmission,36,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C095,Data Usage Control,4,"Security, Authentication, and Usage Policies",T18,"Trusted Connectors, Data Sovereignty & Usage Policies"
+C096,Data-Centric Edge Programming Model,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C097,Database Configuration,3,Observability and Persistent Data Management,T12,"Data Storage, Persistence & Caching"
+C098,Debugging Techniques,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C099,Dependency on Network Operator,1,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C100,Deployment Environment,13,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C101,Detailed Control,2,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C102,Developer Support,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C103,Device Access Control,12,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C104,Device Authenticity,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C105,Device Binding,10,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C106,Device Communication,9,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C107,Device Creation,2,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C108,Device Discovery,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C109,Device Management,7,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C110,Device Online Status,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C111,Digital Twin,7,Infrastructure and Device Management,T06,Digital Twins & Device State Management
+C112,Disclosure Timeline,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C113,Disconnect Procedure,1,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C114,Distributed AI Processing,12,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C115,Distributed Application,2,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C116,Distributed Execution Framework,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C117,Distributed Job Scheduler,4,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C118,Distributed Storage Solution,2,Observability and Persistent Data Management,T12,"Data Storage, Persistence & Caching"
+C119,DMZ Configuration,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C120,DNS Interception,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C121,Docker Container Mode,10,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C122,Docker Engine Communication,1,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C123,Domain Interconnection,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C124,DoS Attack Prevention,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C125,Driver Service,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C126,Dynamic Application Management,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C127,Dynamic Component Integration,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C128,Dynamic Library Usage,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C129,Dynamic Network Management,1,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C130,Easy Development Features,15,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C131,Easy Sharing,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C132,Edge Data Processing Applications,26,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C133,Edge Device Connection,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C134,Edge Device Management,7,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C135,Edge Discovery,4,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C136,Edge Environments,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C137,Edge Node Integration,26,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C138,Edge Runtime,4,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C139,Effective Provisioning,2,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C140,Efficiency,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C141,Efficient Execution,16,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C142,Embedded Systems,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C143,Encryption Techniques,4,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C144,Endpoint Health Management,3,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C146,Environment Variables,1,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C147,Error Handling,7,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C148,Essential Information,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C149,Event API,1,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C150,Event Detection and Notification,7,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C151,Event Logging,2,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C152,Event Stream,1,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C153,Eventbus Interface,1,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C154,Executable Detection,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C155,Expectation Management,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C156,Extensibility,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C157,Extensible Applications,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C158,Extensible Design,3,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C159,External System Integration,5,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C160,Failure Detection,3,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C161,Failure Rate,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C162,Fast Response Time,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C163,Fault Tolerance,3,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C164,File Verification,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C165,Firewall Rules,3,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C166,Fleet Operators,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C167,Flexible Edge Computing Services,6,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C168,Fog Computing,3,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C169,Fog Instance Connection,2,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C170,Format Property Configuration,1,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C171,Frontend Interaction,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C172,Function Call,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C173,Function Synchronization,1,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C174,Functions List,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C175,Future Enhancements,2,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C176,Gateway Management,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C177,GitOps Management,1,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C178,GPU Resource Management,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C179,GraphQL API,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C180,Growing Client Needs,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C181,Hardware and Software Development,2,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C182,Hardware Compatibility,9,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C183,Hardware Specifications,17,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C184,Hardware-Agnostic Specification,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C185,Health Monitoring Feature,2,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C186,Hierarchical Configuration,1,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C187,High Concurrency,2,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C188,High-Performance Messaging,5,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C189,HTTP POST Request,1,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C190,Hybrid Edge Device,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C192,Identity Translation,1,"Security, Authentication, and Usage Policies",T18,"Trusted Connectors, Data Sovereignty & Usage Policies"
+C193,Identity Translation Module,2,"Security, Authentication, and Usage Policies",T18,"Trusted Connectors, Data Sovereignty & Usage Policies"
+C194,Identity Translation Pattern,1,"Security, Authentication, and Usage Policies",T18,"Trusted Connectors, Data Sovereignty & Usage Policies"
+C195,Illusion of Continuity,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C196,Image Address,1,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C197,Image Size Configuration,1,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C198,Information Transfer,2,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C199,Infrastructure Accommodation,1,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C200,Infrastructure Optimization,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C201,Infrastructure Services,2,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C202,Input and Output,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C203,Integration of Components,2,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C204,Integration of DPU IP,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C205,Inter-Module Communication,13,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C206,Interface Definition,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C207,Interoperability of Different Services,9,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C208,IoT Integration,4,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C209,IoT Service Providers,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C210,JWT-based Authorization,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C211,Keep-Alive Packets,2,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C212,Kubernetes Cluster Management,7,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C213,Kubernetes Native Platform,1,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C214,Kubernetes Tools,2,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C215,Labeling Issues,2,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C216,Language Supports,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C217,LeafEvent,2,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C218,Lifecycle Management,3,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C219,Lightweight Messaging System,3,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C220,Lightweight Runtime,10,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C221,Linux Workload,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C222,Listening Address,3,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C223,Load Balancing,8,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C224,Local Device Connection,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C225,Local Processing,2,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C226,Local Storage,2,Observability and Persistent Data Management,T12,"Data Storage, Persistence & Caching"
+C227,Logger Configuration,3,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C228,Long-Range Communication,1,"Communication Protocols, Infrastructures and Continuum",T16,LPWAN/LoRaWAN & Other Long‑Range Low‑Power Communications
+C229,Low Bandwidth,2,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C230,Low Debugging Difficulty,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C231,Low Latency,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C232,Low-Power Connected Objects,1,"Communication Protocols, Infrastructures and Continuum",T16,LPWAN/LoRaWAN & Other Long‑Range Low‑Power Communications
+C233,Management and Routing Tasks,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C234,Manager Interface,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C235,Master-Minion Architecture,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C236,Memory Layout Conversion,2,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C237,Memory Management,5,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C238,Merge Restrictions,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C239,Message Structure,2,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C240,Message Transmission,21,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C241,Metrics Collection,2,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C242,Metrics Endpoint,1,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C243,Microcontroller Support,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C244,Microservices Architecture,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C245,Middleware Integration,2,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C246,Minimal Functionality,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C247,Mobile IoT,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C248,Model Aggregation,2,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C249,Model Deployment,5,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C250,Model Partition Converter,4,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C251,Model Performance,3,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C252,Model Size Reduction,2,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C253,Modification Proposals,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C254,Modular Application Development,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C255,Modular Architecture,11,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C256,Module Integration,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C257,Module Management,3,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C258,module performance,2,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C259,Module Registration,4,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C260,Monitoring,23,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C261,MQTT Interface,10,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C262,Multi-cloud,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C263,Multi-Factor Authentication,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C264,Multi-Language Protocol,2,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C265,Multi-Layer Architecture,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C266,Multi-Tenant Architecture,2,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C267,Multi-threading,2,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C268,Multiple Architectures,2,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C269,Multiple NICs Management,1,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C270,Multiple URI Support,1,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C271,NAT Traversal,2,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C272,NDEATH Certificate,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C273,Network Complexity,1,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C274,Network Configuration,8,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C275,Network Failure Detection,1,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C276,Network Server Integration,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C277,Network Virtualization,1,"Communication Protocols, Infrastructures and Continuum",T17,"Network Virtualisation, VPNs & SDN at the Edge"
+C278,New Access Levels,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C279,New Deployment Options,3,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C280,New Measurement Techniques,2,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C281,New Process Initialization,2,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C283,Node Execution,2,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C284,Node Management,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C285,Node Registration,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C286,Noise Interference,1,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C287,Non-Deterministic Behavior,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C288,Non-Zero Length String,1,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C289,Object State Reporting,4,Infrastructure and Device Management,T06,Digital Twins & Device State Management
+C290,OCI-compliant Runtimes,4,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C291,Offline Capabilities,2,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C293,OpenTelemetry Support,2,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C294,Orchestration Layer,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C295,Overlay Networking,2,"Communication Protocols, Infrastructures and Continuum",T17,"Network Virtualisation, VPNs & SDN at the Edge"
+C296,Package Purging,1,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C297,Packet Management,1,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C298,Parallel Processing,2,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C299,path settings,4,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C300,Pattern Detection,1,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C301,Pattern Testing,1,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C302,Payload Schema Specifications,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C303,Peer-to-Peer Communication,3,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C304,Performance Improvement,45,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C305,Performance Metrics,2,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C306,Performance Variability,8,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C307,Perimeter Security,2,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C308,Physical Tampering Prevention,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C309,Pipeline Management,2,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C310,Plug-in Integration,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C311,Plug-ins,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C312,Pluggable Transport System,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C313,Policy Engine,1,"Security, Authentication, and Usage Policies",T18,"Trusted Connectors, Data Sovereignty & Usage Policies"
+C314,Portability,3,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C315,Prioritization of Critical Data,1,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C316,Privacy Measures,2,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C317,Process Communication,2,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C318,Process Role Categorization,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C319,Processing Pipeline,5,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C320,Processing Rate Limit,1,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C321,Programming Language Support,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C322,Protocol Translation,3,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C323,Provisioning,2,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C324,Pub/Sub Messaging Service,2,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C326,Quality Assurance,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C327,Quality Improvement,2,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C328,Quantization Techniques,2,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C329,Queue Management,2,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C330,Real-time Processing Needs,6,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C331,Recovery Mechanism,2,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C332,Red Hat OpenShift GitOps,1,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C333,Red Hat OpenShift Observability,2,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C334,Red Hat OpenShift Pipelines,1,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C335,Redis Message Broker,2,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C336,Reliability,2,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C337,Reliable Cloud Connectivity,2,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C338,Reliable Systems,2,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C339,Remote Control,5,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C340,Repeatable Processes,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C341,Replay Attack Prevention,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C342,Replica Management,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C343,Reporting by Exception,1,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C344,Reporting Process,1,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C345,Resource Management,23,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C346,REST API Integration,2,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C347,restrictions to storage volume,4,Observability and Persistent Data Management,T12,"Data Storage, Persistence & Caching"
+C348,Reusable Content,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C349,Robustness,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C350,Rollback Capability,1,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C351,Route Configuration,2,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C352,Rule Connection,5,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C353,Rule Weakening,1,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C354,Runtime Optimization,9,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C355,S3,1,Observability and Persistent Data Management,T12,"Data Storage, Persistence & Caching"
+C356,Scalability,13,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C357,Script Utilization,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C358,SDK Availability,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C359,Secret Leak Prevention,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C360,Secret Management Solutions,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C361,Secure Communication,9,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C362,Secure On-boarding,2,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C363,Security Audit,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C364,Security Context,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C365,Security Settings,38,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C366,Segmentation,1,"Communication Protocols, Infrastructures and Continuum",T17,"Network Virtualisation, VPNs & SDN at the Edge"
+C367,Self-Adaptive Architecrutes,2,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C368,Send and Receive Operations,4,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C369,Sensitive Information Management,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C370,Sensor Data Handling,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C371,Server Connect Token,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C372,Server URI Specification,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C373,Service Accessibility,4,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C374,Service Build,2,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C375,Service Continuity,8,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C376,Service Discovery,2,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C377,Service Hosting,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C378,Service Invocation,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C379,Service Management,23,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C380,Service Offloading,2,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C381,Shared Services,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C382,Signal Collection,1,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C383,Signal Denoise,1,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C384,Signature Verification,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C385,Simplified Cloud Connectivity,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C386,Simplified Distributed Training,2,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C387,Single Client Use Case,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C388,Single Dockerfile Usage,1,Infrastructure and Device Management,T15,"DevOps, CI/CD & Build Environments for Edge"
+C389,Software-Defined Networking,2,"Communication Protocols, Infrastructures and Continuum",T17,"Network Virtualisation, VPNs & SDN at the Edge"
+C390,Source Definition,2,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C391,Source Instance,2,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C392,Sparkplug Specification,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C393,Speedy Delivery,2,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C394,SQL-based Rule Engine,1,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C395,SSH Authentication,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C396,SSL/TLS Configuration,3,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C397,Standard of Excellence,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C398,Standard-Based,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C399,State Serialization,2,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C400,Stateless Architecture,1,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C401,Status Monitoring,1,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C402,Status Notification,3,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C403,Storage Engine Options,4,Observability and Persistent Data Management,T12,"Data Storage, Persistence & Caching"
+C404,Storage Volume Path,4,Observability and Persistent Data Management,T12,"Data Storage, Persistence & Caching"
+C405,Submodule Restart,1,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C406,Subscriber Action,2,Composable Architectures and Flow Orchestration,T11,Stream Processing & Event‑Driven Architectures (Edge)
+C407,System Deployment Options,2,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C408,System Operational Communication,1,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C409,Tailored Solutions,3,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C410,Target Definition,1,Infrastructure and Device Management,T07,Infrastructure Automation & Configuration Management
+C411,Task Factory,3,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C412,Telemetry Management,1,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C413,Tensor Operators,1,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C415,Testing Practices,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C416,Text-based User Interface,2,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C417,Third Party Application Integration,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
+C418,TIG Stack,1,Observability and Persistent Data Management,T08,"Observability, Monitoring & Diagnostics"
+C419,Traffic Management,2,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C420,Trust Establishment,2,"Security, Authentication, and Usage Policies",T18,"Trusted Connectors, Data Sovereignty & Usage Policies"
+C421,Trusted Connectors,1,"Security, Authentication, and Usage Policies",T18,"Trusted Connectors, Data Sovereignty & Usage Policies"
+C422,Unified APIs,6,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C423,Unified Deployment,2,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C424,Unified Interface,1,Infrastructure and Device Management,T03,Device Lifecycle Management (Provisoning → Deployment → Operation)
+C425,Unique ID Requirement,3,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C426,User and Client Entities,2,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C427,User Authentication,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C428,User Interaction,12,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C429,User Satisfaction,1,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C430,User-defined Modules,5,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C431,User-defined Passes,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C432,User-Friendly APIs,11,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C433,Vector Addition,1,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C434,Vector Database Functionality,1,Observability and Persistent Data Management,T12,"Data Storage, Persistence & Caching"
+C435,Vehicle Data Management,5,Integration of Sensors and Applications,T13,Sensor Abstraction & Hardware Interface Integration
+C437,Virtual Machine Communication,4,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C438,Visual Context,1,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C439,Vulnerability Management,1,"Security, Authentication, and Usage Policies",T02,"Security, Privacy & Trust Management"
+C440,Waiting Mechanism,1,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C441,Web-Based Interface,2,Optimized AI Execution and Computational Efficiency,T14,Edge Development Frameworks & Programmability
+C442,Web-Socket Connection,4,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C443,WebRTC Functionality,1,"Communication Protocols, Infrastructures and Continuum",T01,Edge Connectivity & Communication Protocols
+C444,Worker Threads,1,Optimized AI Execution and Computational Efficiency,T09,Optimised AI/ML Execution at the Edge
+C445,Workflow Configuration,2,Composable Architectures and Flow Orchestration,T04,Modular Edge Architecture & Service Orchestration
+C446,workload,3,Optimized AI Execution and Computational Efficiency,T10,Resource Efficiency & Performance Optimisation
+C447,ZeroMQ Transport,1,"Communication Protocols, Infrastructures and Continuum",T05,Edge‑Cloud Continuum Integration & Messaging Middleware
