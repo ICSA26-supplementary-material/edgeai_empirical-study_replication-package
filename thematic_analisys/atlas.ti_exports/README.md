@@ -32,8 +32,35 @@ Below we will document **each export file** individually.
 For every file, we will add a mini-section in the following format:
 
 ```text
-### 2.X <FILENAME>
 
-- **Purpose:** ...
-- **Contents:** ...
-- **Usage:** ...
+### 2.X 20250914_theme_frequencies.csv
+
+- **Purpose:**  
+  This export summarizes the **frequency of all themes** identified during the ATLAS.ti coding process. It provides a quantitative view of how often each high-level theme appeared across the coded fragments.
+
+- **Contents:**  
+  A CSV table containing at least two columns:  
+  - **theme** – the thematic label or category assigned during axial/thematic coding.  
+  - **frequency** – the number of times that theme appeared in the dataset (i.e., total quotations coded with that theme or aggregated subcodes).  
+
+  This export represents the **final consolidated theme frequency table** used for descriptive statistics in the study.
+
+- **Usage:**  
+  Ideal for:  
+  - generating plots (bar charts, Pareto charts, heatmaps);  
+  - inspecting theme distribution for RQ1.x;  
+  - validating the representativeness of guideline families;  
+  - triangulating with the GitHub mining dataset and ISO/IEC mappings.  
+
+  Researchers replicating this study can recompute this table by regrouping codes → categories → themes following the same hierarchical structure documented in the coding scheme.
+
+
+[//]: # ()
+[//]: # (### 2.X <FILENAME>)
+
+[//]: # ()
+[//]: # (- **Purpose:** ...)
+
+[//]: # (- **Contents:** ...)
+
+[//]: # (- **Usage:** ...)
