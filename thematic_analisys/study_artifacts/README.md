@@ -10,7 +10,7 @@ Below you will find an overview of each file and a detailed description of its s
 
 ## 1. File Overview
 
-### 1.1 all_collected_fragments.csv
+### [1.1 all_collected_fragments.csv](./all_collected_fragments.csv)
 
 - **Purpose**
 
@@ -54,7 +54,9 @@ Below you will find an overview of each file and a detailed description of its s
 
 #### This file is considered the **ground truth dataset** for all subsequent coding and synthesis steps.
 
-### 1.2 fragments_used.csv
+---
+
+### [1.2 fragments_used.csv](./fragments_used.csv)
 
 - **Purpose**
 
