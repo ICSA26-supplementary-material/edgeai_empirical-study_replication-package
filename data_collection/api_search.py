@@ -29,7 +29,7 @@ NUM_STARS = 2
 PER_PAGE = int(os.getenv('PER_PAGE'))
 MAX_RESP = int(os.getenv('MAX_RESP'))
 
-USERNAME = os.getenv('GITHUB_USERNAME')
+# USERNAME = os.getenv('GITHUB_USERNAME')
 TOKEN    = os.getenv('API_TOKEN')
 
 headers = {
@@ -67,7 +67,12 @@ class HandleCsv:
         Prepare output filename and trigger CSV export for the current repositories.
         """
         filename = f"{self.prefix}{self.term}_repos_{format_datetime()}.csv"
-        self.output_path = os.path.join(root, "dataset/raw_data2", filename)
+        output_folder = os.path.join(root, "dataset/raw_data")
+
+        if not os.path.exists(output_folder):
+            os.makedirs(output_folder)
+
+        self.output_path = os.path.join(output_folder, filename)
 
         logger.info("Saving repository data to CSV: %s", self.output_path)
         self.save_to_csv()
@@ -462,29 +467,29 @@ def main() -> None:
     """
     search_terms = [
         "edge ai",
-        "edge_ai",
-        "edgeiot",
-        "edge iot",
-        "edge-tpu",
-        "edgetpu",
-        "edge tpu",
-        "edge_tpu",
-        "tiny-ml",
-        "tinyml",
-        "tiny ml",
-        "tiny_ml",
-        "edge-impulse",
-        "edgeimpulse",
-        "edge impulse",
-        "edge_impulse",
-        "edge-architecture",
-        "edgearchitecture",
-        "edge architecture",
-        "edge_architecture",
-        "edge-ai-architecture",
-        "edgeaiarchitecture",
-        "edge ai architecture",
-        "edge_ai_architecture",
+        # "edge_ai",
+        # "edgeiot",
+        # "edge iot",
+        # "edge-tpu",
+        # "edgetpu",
+        # "edge tpu",
+        # "edge_tpu",
+        # "tiny-ml",
+        # "tinyml",
+        # "tiny ml",
+        # "tiny_ml",
+        # "edge-impulse",
+        # "edgeimpulse",
+        # "edge impulse",
+        # "edge_impulse",
+        # "edge-architecture",
+        # "edgearchitecture",
+        # "edge architecture",
+        # "edge_architecture",
+        # "edge-ai-architecture",
+        # "edgeaiarchitecture",
+        # "edge ai architecture",
+        # "edge_ai_architecture",
     ]
 
     logger.info("Starting GitHub mining for %d search terms.", len(search_terms))

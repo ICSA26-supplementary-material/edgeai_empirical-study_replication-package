@@ -1,6 +1,5 @@
 # Prepare you Environment
 
-
 ### 1) Prerequisites
 
 - **Git**
@@ -17,12 +16,12 @@
 ### 2) Clone the repository
 
 ```bash
-  git clone https://github.com/<org>/<edgeai.empirical-study.replication-package>.git
+  git clone https://github.com/ICSA26-supplementary-material/edgeai_empirical-study_replication-package.git
 ```
 
 ### 3) Set up environment variables
 
-Create your .env file (used by the data collection scripts):
+Create your .env file (used by the mining scripts):
 
 ```shell
   cp .env.example .env
@@ -44,3 +43,6 @@ collection.
   poetry install
   poetry env activate 
 ```
+
+
+## **[Back](./README.md)**
